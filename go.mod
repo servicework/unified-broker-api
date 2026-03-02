@@ -1,4 +1,4 @@
-module github.com/servicework/unified-broker-api
+module github.com/servicework/unified-broker-api.git
 
 go 1.24.3
 
